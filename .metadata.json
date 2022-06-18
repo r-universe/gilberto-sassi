@@ -1,0 +1,10 @@
+[
+  {
+    "package": "geoFKF",
+    "oncran": true
+  },
+  {
+    "package": "sinar",
+    "oncran": true
+  }
+]
