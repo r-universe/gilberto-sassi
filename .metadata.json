@@ -4,7 +4,15 @@
     "oncran": true
   },
   {
+    "package": "geoFourierFDA",
+    "oncran": true
+  },
+  {
     "package": "sinar",
+    "oncran": true
+  },
+  {
+    "package": "statBasics",
     "oncran": true
   }
 ]

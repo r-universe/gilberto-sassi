@@ -8,8 +8,18 @@
 	url = https://github.com/gilberto-sassi/geofkf
 	shallow = true
 	registered = true
+[submodule "geoFourierFDA"]
+	path = geoFourierFDA
+	url = https://github.com/gilberto-sassi/geofourierfda
+	shallow = true
+	registered = true
 [submodule "sinar"]
 	path = sinar
 	url = https://github.com/gilberto-sassi/sinar
+	shallow = true
+	registered = true
+[submodule "statBasics"]
+	path = statBasics
+	url = https://github.com/gilberto-sassi/statbasics
 	shallow = true
 	registered = true
