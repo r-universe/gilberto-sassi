@@ -8,6 +8,9 @@
 [submodule "geoFourierFDA"]
 	path = geoFourierFDA
 	url = https://github.com/gilberto-sassi/geofourierfda
+[submodule "lettervalue"]
+	path = lettervalue
+	url = https://github.com/gilberto-sassi/lettervalue
 [submodule "sinar"]
 	path = sinar
 	url = https://github.com/gilberto-sassi/sinar
